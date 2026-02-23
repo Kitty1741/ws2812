@@ -1,6 +1,7 @@
 # 基于ESP32的WS2812 库
 
 ESP32 WS2812 LED 驱动（GRB颜色顺序）
+占用 1 RMT通道
 
 ## API
 
